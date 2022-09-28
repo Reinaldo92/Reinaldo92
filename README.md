@@ -1,13 +1,21 @@
 ## PROFILE
 Hi i am  Reinaldor!
 
-## DOTFILES
+## Skills:
 
-### CONFIGS:
-
+- PHP;
+- JavaScript;
+- Laravel;
+- GNU/Linux (Debian/Ubuntu/CentOS)
 - composer;
 - git;
+- MySQL;
+- PostgreSQL;
+- Redis;
+
+## Tools
 - neomutt;
 - neovim;
 - tmux;
 - zsh;
+- VSCode (deprecated);
