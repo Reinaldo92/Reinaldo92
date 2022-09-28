@@ -1,0 +1,41 @@
+[user]
+	name = Reinaldo Jr
+	email = reinaldo.santos0692@gmail.com
+
+[user]
+	name = Reinaldo Jr
+	email = reinaldo.santos92@outlook.com
+
+[color]
+	interactive = true
+	branch = true
+	status = true
+	ui = true
+
+[core]
+	editor = nvim
+	autocrlf = input
+	excludesfile = /home/reinaldo/.config/git/ignore
+
+[init]
+	defaultBranch = main
+
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	df = diff
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	co = checkout
+	pom = pull origin master
+	ps = push
+	pl = pull
+
+[pull]
+	ff = only
+
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
