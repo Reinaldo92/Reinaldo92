@@ -1,21 +1,25 @@
 ## PROFILE
-Hi i am  Reinaldor!
+
+Hi, i am  Reinaldo!
 
 ## Skills:
 
-- PHP;
-- JavaScript;
-- Laravel;
-- GNU/Linux (Debian/Ubuntu/CentOS)
-- composer;
-- git;
-- MySQL;
-- PostgreSQL;
-- Redis;
+*   PHP;
+*   Laravel;
+*   JavaScript;
+*   GNU/Linux (Debian/Ubuntu/CentOS)
+*   composer;
+*   git;
+*   MySQL;
+*   PostgreSQL;
+*   Redis;
+*   Java
+*   Springboot
 
 ## Tools
-- neomutt;
-- neovim;
-- tmux;
-- zsh;
-- VSCode (deprecated);
+
+*   vim/nvim;
+*   tmux;
+*   zsh;
+*   bash;
+*   DBeaver;
