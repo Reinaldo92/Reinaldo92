@@ -1,6 +1,11 @@
-## PROFILE
+# PROFILE
 
 Hi, i am  Reinaldo!
+
+## Contato
+
+*   Email: [reinaldo.santos0692@gmail.com](reinaldo.santos0692@gmail.com)
+*   [Linkedin](https://www.linkedin.com/in/reinaldosantos0692)
 
 ## Skills:
 
