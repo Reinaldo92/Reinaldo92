@@ -4,8 +4,9 @@ Hi, i am  Reinaldo!
 
 ## Contato
 
-*   Email: [reinaldo.santos0692@gmail.com](reinaldo.santos0692@gmail.com)
+*   [reinaldo.santos0692@gmail.com](reinaldo.santos0692@gmail.com)
 *   [Linkedin](https://www.linkedin.com/in/reinaldosantos0692)
+*   [Github](https://github.com/Reinaldo92)
 
 ## Skills:
 
@@ -18,8 +19,8 @@ Hi, i am  Reinaldo!
 *   MySQL;
 *   PostgreSQL;
 *   Redis;
-*   Java
-*   Springboot
+*   Java;
+*   Springboot;
 
 ## Tools
 
@@ -28,3 +29,4 @@ Hi, i am  Reinaldo!
 *   zsh;
 *   bash;
 *   DBeaver;
+*   i3-wm
